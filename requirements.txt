@@ -1,0 +1,8 @@
+gradio>=5.0,<7.0
+openai>=1.0
+PyMuPDF>=1.23
+python-docx>=1.0
+plotly>=5.0
+python-dotenv>=1.0
+pytest>=7.0
+fpdf2>=2.7
